@@ -4,30 +4,38 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Formatter;
 import java.util.Scanner;
-
+import java.util.*;
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String first_input = new String();
         String main_text = new String();
-        ArrayList <String> words = new ArrayList<>();
-        first_input = scanner.nextLine();
+        ArrayList<String> words = new ArrayList<>();
+    //    first_input = scanner.nextLine();
         String sizeoflines = first_input.replaceAll("[^0-9]", "");
 
-        while (scanner.hasNextLine()) {
-            words.add(scanner.next());
-            System.out.println(words.get(0));
-            System.exit(0);
+        while (scanner.hasNext()) {
+            String temp1 = scanner.nextLine();
+           // System.exit(0);
+           /* String[] splitStr = temp1.split("\\s+");
+            for (String strTemp : splitStr) {
+                words.add(strTemp);
+               // System.out.println(strTemp);
+            }
+            //words.add(scanner.nextLine());
+            //System.out.println(words.get(0));
+
+            */
         }
 
-        int max_width=Integer.parseInt(sizeoflines);
-        int index=0;
-        int max_width_copy=max_width;
-        char temp='J';
-if(first_input.charAt(0) == temp) {
-    while (scanner.hasNextLine()) {
+        int max_width = Integer.parseInt(sizeoflines);
+        int index = 0;
+        int max_width_copy = max_width;
+        char temp = 'J';
+/*if(first_input.charAt(0) == temp) {
+    while (words.size() > 1) {
 
-        words.add(scanner.next());
+        //words.add(scanner.next());
         if (words.get(index).length() <= max_width_copy) {
             max_width_copy -= (words.get(index).length() + 1);
             //System.out.println("words "+index+" = "+words.get(index));
@@ -78,9 +86,9 @@ if(first_input.charAt(0) == temp) {
 
 }
 else {
-    while (scanner.hasNextLine()) {
+    while (words.size() > 1) {
 
-        words.add(scanner.next());
+       // words.add(scanner.next());
         if (words.get(index).length() <= max_width_copy) {
             max_width_copy -= (words.get(index).length() + 1);
             //System.out.println("words "+index+" = "+words.get(index));
@@ -119,6 +127,9 @@ else {
 }
 if(index == 1){
     System.out.println(words.get(index));}
+    }
+    */
+
     }
 }
 /*
