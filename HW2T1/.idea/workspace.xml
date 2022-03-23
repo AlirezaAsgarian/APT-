@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e926d443-f732-4684-a9c5-b61cd8003c06" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../soal1 1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../soal1 1/out/production/soal1 1/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../soal1 1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/untitled104.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/out/production/untitled5/Main$Farm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/out/production/untitled5/Main$Sheep.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/out/production/untitled5/Main$Sheepcote.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/out/production/untitled5/Main$Sheepherd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/out/production/untitled5/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/untitled5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled6/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled6/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled6/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled6/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled6/out/production/untitled6/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled6/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled6/untitled6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../سوال1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../سوال1/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../سوال1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../سوال1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../سوال1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../سوال1/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../سوال1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../سوال1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../سوال1/سوال1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../soal4/out/production/soal4/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../soal4/out/production/soal4/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../سوال 1/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../soal1 1/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../سوال 1/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled2/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../سوال 1/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/../soal1 1/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../سوال 1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../soal1 1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../سوال 1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../soal1 1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../سوال 1/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../soal1 1/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../سوال 1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../soal1 1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../سوال 1/out/production/untitled3/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../سوال1/out/production/سوال1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../سوال 1/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../سوال 1/untitled3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../soal1 1/soal1 1.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="26mJXEavnVfTZ3mwaUWquTfDzfr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="HW2T1" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e926d443-f732-4684-a9c5-b61cd8003c06" name="Changes" comment="" />
+      <created>1648022971052</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648022971052</updated>
+    </task>
+    <servers />
+  </component>
+</project>
